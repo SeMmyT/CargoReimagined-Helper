@@ -156,6 +156,10 @@ async function findOrCreateGmailTab(emailAddress) {
     windowId: currentWindow.id
   });
   
+  // Wait for Gmail UI to load when creating a new tab
+  logger.info('New Gmail tab created, waiting 3 seconds for UI to load...');
+  await new Promise(resolve => setTimeout(resolve, 3000));
+  
   return newTab;
 }
 

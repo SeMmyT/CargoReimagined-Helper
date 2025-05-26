@@ -3,6 +3,7 @@
   "name": "CargoReimagined Helper",
   "version": "1.0.0",
   "description": "Enhances Gmail interaction for cargo bidding workflows",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw12Zo073rR4IqoM/x/ynj7WGcBuDoJkl74exkLsx2mH6c4cvB7zonGtM0nGO7SiTMisd1W66XRnc3/ZIf2QXFvcM4MxNHbU9NnBfcenTM/E2H3WsITxqKY+ObXzFWiJqoi7nsHVbsnk5i4pi9dmuuX3QFua3Xp57cTDVzIRkj8CmrPvhTZvaN7Zbj+Z5eIUkoyex0K5A4j3w8cLpOyGeQTRw+SQ3Hsn+ejlrIQk3HhErlTq4v7q1UVBhkMvvJcpmKBYpGqYbbRDwpSBsM0lRYcBbezcWi/fEhvr7CAH87VoVEYkSJAsWSSJ/qcg2H5q9u3CC0u3kzZ5oxcO5wvSqtwIDAQAB",
   "permissions": [
     "tabs",
     "scripting",
