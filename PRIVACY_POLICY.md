@@ -107,7 +107,7 @@ The Extension's source code is available for review, ensuring transparency in ou
 
 For privacy concerns or questions about this policy, please contact:
 - Create an issue on our GitHub repository
-- Email: [your-privacy-contact@email.com]
+- Email: [admin@semmy.dev]
 
 ## Changes to This Policy
 
