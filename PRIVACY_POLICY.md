@@ -1,6 +1,6 @@
 # Privacy Policy for CargoReimagined Helper
 
-*Last updated: January 2025*
+*Last updated: May 2025*
 
 ## Overview
 
