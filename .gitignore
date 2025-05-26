@@ -1,0 +1,8 @@
+INSTALL.MD
+/test
+/dist
+/build
+/node_modules
+.env
+.env.local
+/store
